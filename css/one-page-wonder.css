@@ -1,0 +1,100 @@
+/*!
+ * Start Bootstrap - One Page Wonder (https://startbootstrap.com/template-overviews/one-page-wonder)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-one-page-wonder/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.text-primary1 {
+  color:#1c728e;
+}
+
+.text-secondary {
+  color:#353738;
+}
+
+.btn-primary {
+    background-color:#1c728e;
+}
+
+.primary-back {
+  background-color:#1c728e;
+  opacity:.95;
+}
+
+.secondary-back {
+  background-color:#353738;
+  opacity:.95;
+}
+
+.w3-bar-item {
+  font-size:1.65em
+}
+
+blockquote {
+  border-radius:1em;
+}
+
+
+h1, h2 {
+  font-family: 'Oswald', sans-serif;
+}
+
+p, h3, h4, h5, h6 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size:1.15em;
+}
+
+header.masthead {
+  
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+header.masthead>.overlay {
+  padding: 5rem 0;
+  text-align: right;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+@media (min-width: 992px) {
+  header.masthead>.overlay {
+    padding: 15rem 0;
+  }
+}
+
+.site-heading {
+  margin-top:-200px;
+}
+
+#contact{
+  margin:0 auto;
+  width:55%;
+	background:#333333;
+	color:#f4f4f4;
+	padding-bottom:80px;
+}
+
+textarea.form-control{
+    height:100px;
+}
+
+.form-group {
+margin: 0 auto;
+width:85%;
+}
+
+.biography {
+  margin:0 auto;
+}
